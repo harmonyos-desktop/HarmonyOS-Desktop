@@ -1,6 +1,28 @@
-拳打 Windows 脚踢 Arch Linux，真正的打破国外垄断之作
+# 鸿蒙操作系统 HongmengOS - 全新自主研发，打破境外势力垄断
 
----
+这是我们全新自主研发的OS
+
+当然我不是 pop! OS 套壳
+
+pop! 跟 Linux 是不一样的，Linux 能叫 pop 吗？
+
+如果你一定要追根究底，那我确实是 Linux 套壳，但在未来我会删掉 Linux 的代码
+
+借鉴已有的开源项目是很自然的事，可能你们对开源有误解
+
+HongmengOS采用微内核、形式化验证、比 垃圾Linux 快 8848%
+
+# Acknowledgement
+
+创意来自[此处](https://github.com/monyhar)，我不是作者。
+
+# 真正的鸿蒙
+
+https://github.com/fenwii/OpenHarmony
+
+https://github.com/Awesome-HarmonyOS/HarmonyOS
+
+<!--
 
 # Pop!\_OS
 
@@ -35,3 +57,5 @@ This repository contains the following commands:
 - `scripts/pull` - update source code
 - `scripts/readme` - generate `REPOS.md`
 - `scripts/validate` - validate Pop!\_OS source code for presence of `LICENSE`, `README`, and `TESTING` documentation
+
+--->
