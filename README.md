@@ -1,3 +1,7 @@
+拳打 Windows 脚踢 Arch Linux，真正的打破国外垄断之作
+
+---
+
 # Pop!\_OS
 
 Pop!\_OS is designed for people who use their computer to create; whether it’s complicated, professional grade software and products, sophisticated 3D models, computer science in academia, or makers working on their latest invention. The Pop! user interface stays out of the way while offering extensive customization to perfect your work flow. Built on Ubuntu, you have access to vast repositories of open source software and development tools.
